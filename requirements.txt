@@ -1,0 +1,9 @@
+# the modules that the user must import, if they want to be able to run this code
+# just navigate to this repository and type "pip install -r requirements.txt"
+# not all of them might be necessary to run the code.
+
+cloudscraper
+bs4
+pandas
+tqdm
+matplotlib
